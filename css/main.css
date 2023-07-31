@@ -1,0 +1,5 @@
+.width-100{ width: 100%; }
+.width-80{ width: 500px; }
+.width-20{ width: 300px; margin-left: 3rem }
+.dynamic-pendant-container { display: flex; flex-flow: row; justify-content: center; margin-top: 3rem; }
+img#dynamic_pendant{ max-width: 500px; max-height: 500px; margin: auto; display: block; background: white; }
